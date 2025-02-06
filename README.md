@@ -1,1 +1,1 @@
-<h1 style="font-family: 'monospace';">Olá, me chamo Edmilson 👍</h1>
+<h1>Olá, me chamo Edmilson 👍</h1>
