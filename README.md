@@ -10,7 +10,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ## 📊 Estatísticas:
-![Edmilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmilson016&theme=dark&show_icons=true)
+![Edmilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmilsongc&theme=dark&show_icons=true)
 ## 🌐 Onde me encontrar:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/edmilson016__/)
 [![Blogger](https://img.shields.io/badge/-Blogger-F57D00?style=flat-square&logo=blogger&logoColor=white)](https://edmilsongc.blogspot.com/)
